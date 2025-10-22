@@ -100,46 +100,13 @@ No build process required! Just open `home.html` in your browser.
 
 ---
 
-## 📁 Project Structure
-
-```
-pixel-verse-hackathon/
-│
-├── home.html          # Main HTML file
-├── home.css           # Custom styles
-├── home.js            # JavaScript functionality
-├── README.md          # Project documentation
-│
-└── img/            # Images and logos
-    ├── Hackshastra.png
-    ├── Elites.png
-    ├── Codecap.png
-    ├── T2F.png
-    ├── SBC.png
-    └── GDG.png
-```
-
----
-
 ## 👥 Team
 
 - **Aditya Pandey** - Team Lead | [LinkedIn](https://www.linkedin.com/in/adityapandey016/)
-- **Hardik Talwar** - Developer | [LinkedIn](https://www.linkedin.com/in/hardik-talwar-66b362335/)
+- **Hardik Talwar** - Management | [LinkedIn](https://www.linkedin.com/in/hardik-talwar-66b362335/)
 - **Khushi Chaudhary** - Designer | [LinkedIn](https://www.linkedin.com/in/khushichaudhary07)
 - **Sparsh Mishra** - Developer | [LinkedIn](https://www.linkedin.com/in/sparshm8/)
 
----
-
-## 🤝 Community Partners
-
-- HackShastra
-- The Elites Community
-- Codecap Community
-- Tech to Fun
-- She Bright Community
-- Google Developer Groups
-
----
 
 ## 📞 Contact & Support
 
@@ -162,23 +129,6 @@ For queries and support, join our WhatsApp group. All doubts will be addressed t
 - **WhatsApp Group**: [Join Here](https://chat.whatsapp.com/J83oCc0uL2A9XneVcF244l)
 - **Discord Community**: [Join Server](https://discord.gg/RjgqKfj9kU)
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgments
-
-- Tailwind CSS for the utility-first framework
-- Google Fonts for typography
-- All community partners for their support
-- All participants for making this event possible
-
----
-
 <div align="center">
 
 ### 🚀 Ready to Participate?
@@ -187,7 +137,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by **NerdsRoom**
+Made with ❤️ by **Sparsh - NERDSROOM**
 
 **Pixel Verse — UI/UX Hackathon 2025**
 
