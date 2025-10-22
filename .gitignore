@@ -1,0 +1,49 @@
+# Environment Variables (if you add any)
+.env
+.env.local
+.env.development
+.env.production
+.env.*.local
+
+# API Keys and Secrets
+config.js
+secrets.js
+credentials.json
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Operating System Files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Dependencies (if you add npm/node later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build Output
+dist/
+build/
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Private Notes
+notes.txt
+todo.txt
+private/
