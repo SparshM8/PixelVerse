@@ -110,7 +110,7 @@ pixel-verse-hackathon/
 ├── home.js            # JavaScript functionality
 ├── README.md          # Project documentation
 │
-└── assets/            # Images and logos
+└── img/            # Images and logos
     ├── Hackshastra.png
     ├── Elites.png
     ├── Codecap.png
