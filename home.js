@@ -113,48 +113,7 @@ window.addEventListener('scroll', () => {
     lastScroll = currentScroll;
 });
 
-// ============================================
-// Diwali Postcard Functionality
-// ============================================
-const diwaliPostcard = document.getElementById('diwaliPostcard');
-const closePostcard = document.getElementById('closePostcard');
-
-if (closePostcard && diwaliPostcard) {
-    // Check if postcard was previously closed
-    const postcardClosed = localStorage.getItem('diwaliPostcardClosed');
-    
-    if (postcardClosed === 'true') {
-        diwaliPostcard.style.display = 'none';
-    }
-    
-    // Close postcard on button click
-    closePostcard.addEventListener('click', () => {
-        diwaliPostcard.classList.add('hidden');
-        localStorage.setItem('diwaliPostcardClosed', 'true');
-        setTimeout(() => {
-            diwaliPostcard.style.display = 'none';
-        }, 500);
-    });
-    
-    // Copy coupon code on click
-    const couponCode = document.querySelector('.coupon-code');
-    if (couponCode) {
-        couponCode.addEventListener('click', () => {
-            const code = couponCode.textContent;
-            navigator.clipboard.writeText(code).then(() => {
-                const originalText = couponCode.textContent;
-                couponCode.textContent = '✓ COPIED!';
-                couponCode.style.fontSize = '14px';
-                setTimeout(() => {
-                    couponCode.textContent = originalText;
-                    couponCode.style.fontSize = '18px';
-                }, 1500);
-            }).catch(err => {
-                console.error('Failed to copy coupon code:', err);
-            });
-        });
-    }
-}
+// Diwali postcard JS removed (no matching HTML in project)
 
 // ============================================
 // PREMIUM ENHANCEMENTS
